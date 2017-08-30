@@ -1,0 +1,72 @@
+@CHARSET "UTF-8";
+/* Hoja css de RegistroUsuario */
+body{
+    background-color: #3f535c;
+    color: #f5f5f5;
+    text-align:center;
+    font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+}
+footer{
+    
+    background-color: white;
+    color: grey;
+}
+h2{
+    margin-top: 10px;
+    margin-bottom: 40px;
+    
+}
+.imagen {
+    margin-top:190px;
+    display:block;
+    margin:auto;
+    
+}
+.modal-content {
+    color: black;
+    position: relative;
+    background-color: #fefefe;
+    margin: auto;
+    padding: 0;
+    border: 1px solid #888;
+    width: 80%;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+    -webkit-animation-name: animatetop;
+    -webkit-animation-duration: 0.4s;
+    animation-name: animatetop;
+    animation-duration: 0.4s
+    
+}
+
+
+.section{
+	    text-align: center;
+	   
+}
+
+div.scroll {
+    height: 175px;
+    overflow: auto;
+}
+div.scrollUsuarios {
+    height: 250px;
+    overflow: auto;
+}
+
+.letraNegra{
+	color: black;
+}
+.verticalLine {
+  border-left: thick solid #ff0000;
+    width: 1px; /* Line width */
+      background-color: black; /* Line color */
+      height: 100%; /* Override in-line if you want specific height. */
+      float: left;
+}
+
+.rwd-table {
+  margin: 1em 0;
+  min-width: 300px;
+
+
+

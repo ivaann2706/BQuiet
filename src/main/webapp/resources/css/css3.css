@@ -1,0 +1,22 @@
+@CHARSET "UTF-8";
+/* Hoja css de RegistroCentro */
+body {
+    background-color: #ECE4B3;
+    text-align:center;
+    font-size: 16px;
+    font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+}
+footer {
+    background-color: white;
+}
+h2{
+    margin-top: 10px;
+    margin-bottom: 40px;
+    
+}
+.imagen {
+    margin-top:190px;
+    display:block;
+    margin:auto;
+    
+}
